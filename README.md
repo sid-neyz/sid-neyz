@@ -1,2 +1,5 @@
-# Olá! Eu sou o Sidiney 👋
+# Hello 👋
+
+---
+I am a Computer Engineering student starting my journey 
 
